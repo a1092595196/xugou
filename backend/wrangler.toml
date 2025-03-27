@@ -16,7 +16,7 @@ vars = { NODE_ENV = "development" }
 [[d1_databases]]
 binding = "DB"
 database_name = "status"
-database_id = "2a9a3b4d-5773-43b0-82c4-1d76b37f0f31"
+database_id = "d1f707e2-4bb3-4dbe-ad53-3dca961f9a90"
 
 [vars]
 JWT_SECRET = "your-secret-key-change-in-production" 
